@@ -5,6 +5,7 @@
         "chmod",
         "choco",
         "kubectl",
+        "sshuttle",
         "virtualbox"
     ]
 }
